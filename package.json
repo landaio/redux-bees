@@ -43,6 +43,6 @@
     "object.omit": "^2.0.1",
     "query-string": "^4.3.4",
     "react": "*",
-    "react-redux": "*"
+    "react-redux": "5.1.2"
   }
 }

@@ -2218,9 +2218,10 @@ object-keys@^1.0.8:
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/object-keys/-/object-keys-1.0.11.tgz#c54601778ad560f1142ce0e01bcca8b56d13426d"
 
-object-path-immutable@^0.5.1:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/object-path-immutable/-/object-path-immutable-0.5.1.tgz#4371599ab2b914750c51be96a4801dbdc4d5a4b3"
+object-path-immutable@^0.5.3:
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/object-path-immutable/-/object-path-immutable-0.5.3.tgz#57a874bdfa98147907ea1b9b0c570940a0f45ae0"
+  integrity sha512-MKKU8uPX+Xa2PlQw7ibOh6Qh8GUxQVd2g/19Ym8bVa04XXSoPebzXoiV+a4298tnDtjDtSwDfcHLjoYmKHSz8Q==
 
 object.omit@^2.0.0, object.omit@^2.0.1:
   version "2.0.1"

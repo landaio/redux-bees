@@ -38,8 +38,8 @@
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
+    "object-path-immutable": "^0.5.3",
     "hoist-non-react-statics": "^2.5.5",
-    "object-path-immutable": "^0.5.1",
     "object.omit": "^2.0.1",
     "query-string": "^4.3.4",
     "react": "15.7.0",
